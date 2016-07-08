@@ -23,7 +23,7 @@ public class CucRunner extends MonitoringInstrumentation
     {
         super.onCreate(bundle);
         bundle.putString("features", "features");
-        bundle.putString("glue", "io.apptik.bddexample.feature");
+        bundle.putString("glue", "io.apptik.bddexample.test.feature");
         this.cucumberInstrumentationCore.create(bundle);
         start();
     }

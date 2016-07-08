@@ -1,4 +1,4 @@
-package io.apptik.bddexample;
+package io.apptik.bddexample.test;
 
 
 import android.app.Activity;
@@ -19,8 +19,8 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 
-@CucumberOptions(tags = {"~@skip", "~@skipAndroid"},
-        format = {"json:/sdcard/cuctests/cuc.json", "html:/sdcard/cuctests/cuc-html"}
+@CucumberOptions(tags = {"~@skip", "~@skipAndroid"}
+        //format = {"json:/sdcard/cuctests/cuc.json", "html:/sdcard/cuctests/cuc-html"}
 )
 
 public class BaseTest {
