@@ -6,7 +6,6 @@ import android.app.Instrumentation;
 import android.support.test.runner.lifecycle.ActivityLifecycleMonitor;
 import android.support.test.runner.lifecycle.ActivityLifecycleMonitorRegistry;
 import android.support.test.runner.lifecycle.Stage;
-import android.test.suitebuilder.annotation.LargeTest;
 
 import com.google.common.base.Throwables;
 import com.google.common.collect.Sets;
