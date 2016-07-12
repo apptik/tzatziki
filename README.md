@@ -4,7 +4,7 @@ Examples of Android test automation with various testing tools.
 
 This was initiated in a code lab @ DroidCon Greece 2016
 
-![tzatziki](https://raw.githubusercontent.com/apptik/tzatziki/master/tzatziki.jpg)
+![tzatziki](https://raw.githubusercontent.com/apptik/tzatziki/master/img/tzatziki.jpg)
 
 ## Modules
 
