@@ -6,142 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="677aa120-769f-4efd-a1fa-126c0208c8ac" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/proguardTest-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/BaseTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/TestUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/custom/action/NavigationViewActions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/data/TasksLocalDataSourceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/instr/CucRunner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/instr/LocalInstr.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/instr/RegressionInstr.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/instr/ValidateInstr.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/AppNavigationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivityTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BasePresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BaseView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/Task.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksDbHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksPersistenceContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/remote/TasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/ScrollChildSwipeRefreshLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFilterType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/ActivityUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/EspressoIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/SimpleCountingIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable-hdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable-mdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable-xhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable-xxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable-xxxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_add.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_assignment_turned_in_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_check_circle_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_done.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_edit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_filter_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_statistics.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_statistics_100dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_statistics_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/ic_verified_user_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/list_completed_touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/drawable/touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/layout/addtask_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/layout/addtask_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/layout/nav_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/layout/statistics_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/layout/statistics_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/layout/task_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/layout/taskdetail_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/layout/taskdetail_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/layout/tasks_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/layout/tasks_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/menu/drawer_actions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/menu/filter_tasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/menu/taskdetail_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/menu/tasks_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/data/FakeTasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/prod/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/test/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/test/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepositoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/test/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/test/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/app/src/test/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/androidTest/assets/features/First.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/androidTest/java/io/apptik/bddexample/CucRunner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/androidTest/java/io/apptik/bddexample/ExampleInstrumentationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/androidTest/java/io/apptik/bddexample/MainActivityTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/androidTest/java/io/apptik/bddexample/test/BaseTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/androidTest/java/io/apptik/bddexample/test/feature/FirstGlues.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/java/io/apptik/bddexample/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/layout/content_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/menu/menu_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/bddexample/src/test/java/io/apptik/bddexample/ExampleUnitTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/todoapp/settings.gradle" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="tzatziki.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -201,12 +68,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -246,11 +113,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CucRunner.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CucRunner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bddexample/src/androidTest/java/io/apptik/bddexample/CucRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="330">
+              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -1962,6 +1839,8 @@
         <option value="$PROJECT_DIR$/bddexample/src/androidTest/assets/features/First.feature" />
         <option value="$PROJECT_DIR$/bddexample/src/androidTest/java/io/apptik/bddexample/test/feature/FirstGlues.java" />
         <option value="$PROJECT_DIR$/bddexample/src/androidTest/java/io/apptik/bddexample/CucRunner.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -2569,23 +2448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/todoapp/CONTRIBUTING.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -2662,10 +2524,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bddexample/src/androidTest/java/io/apptik/bddexample/CucRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="330">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
